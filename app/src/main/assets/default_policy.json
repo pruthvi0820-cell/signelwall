@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "defaults": {
+    "categories": {
+      "ADVERTISING": "BLOCK",
+      "ATTRIBUTION": "BLOCK",
+      "ANALYTICS": "BLOCK",
+      "FINGERPRINTING": "LOG"
+    },
+    "blockDomains": [],
+    "allowDomains": []
+  },
+  "apps": {}
+}

@@ -102,3 +102,12 @@ It is not built in CI here because the SDK is not provisioned in this environmen
   any phone — it compares quotes, catching device-based pricing even where it can't block it).
 - **Phase 3:** OS-level signal normalisation for rooted / GrapheneOS devices.
 - **Phase 4:** a policy spec + compliance attestation for companies and regulators.
+
+## Limitations
+
+See [KNOWN_LIMITATIONS.md](KNOWN_LIMITATIONS.md) for an honest account of what SignalWall
+can and cannot do, the bypasses, and the risks to the user (app breakage, account flags).
+
+## License
+
+[MIT](LICENSE).
